@@ -25,6 +25,6 @@
 [pavan](https://files.worldwildlife.org/wwfcmsprod/images/Panda_in_Tree/story_full_width/8u3k0zn66i_Large_WW170579.jpg)
 
 Sno|Name 
----- | ----
+--- | ---
 1|vk
 2|abd
